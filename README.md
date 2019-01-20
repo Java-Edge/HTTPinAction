@@ -3,6 +3,21 @@
 掌握HTTP协议是Web开发最基础的一环，然而很多同学对于HTTP协议基本不了解，或者只了解其中狭小的一部分，导致很多同学无法快速成长，陷入重复coding的地狱.
 该教程从原理到实践,用完整的demo演示HTTP协议的各个环节,让这些同学突破困境，快速成长!
 
+![](https://upload-images.jianshu.io/upload_images/4685968-1c8432dc5ac0f137.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 从网络协议向上深度分析HTTP原理
+- 剖析HTTP请求响应的过程
+- 非常重要的HTTP Header的意义和使用场景
+- 实例展示不同Header的效果
+- 实战最流行的Nginx服务器代理配置
+- 面向未来讲解HTTPS和HTTP2
+
+**从前到后 完整学习HTTP**
+
+跨越前端与后端，全面介绍HTTP协议在项目中的使用
+![](https://upload-images.jianshu.io/upload_images/4685968-b90f80efd242ab08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/4685968-654ee0fd6cd4701a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 # 第1章 导学
 对教程整体进行介绍，并且说明HTTP协议的重要性，以及学习的必要性。
 ## 1-1 导学
